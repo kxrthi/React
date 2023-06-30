@@ -4,4 +4,4 @@
 
 A simple working Calculator built on React.
 
-Link:[https://codepen.io/kxrthik/pen/XWeMvWj](https://codepen.io/kxrthik/pen/PoxmoBW)https://codepen.io/kxrthik/pen/PoxmoBW
+Link:https://codepen.io/kxrthik/pen/PoxmoBW
