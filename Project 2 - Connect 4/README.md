@@ -10,6 +10,7 @@ You can play with another person or with the computer.
 ## Netlify
 
 This project has been deployed in Netlify if you want to give it a try!
+
 Link:https://bright-rolypoly-e9959d.netlify.app
 
 ## Available Scripts
